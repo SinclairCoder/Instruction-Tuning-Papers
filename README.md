@@ -1,6 +1,6 @@
 # Instruction-Tuning-Papers    
 
-![](https://img.shields.io/badge/PRs-welcome-brightgreen) ![](https://img.shields.io/github/stars/sinclaircoder/Instruction-Tuning-Papers?style=social)
+![](https://img.shields.io/badge/PRs-welcome-brightgreen) ![](https://img.shields.io/github/stars/sinclaircoder/Instruction-Tuning-Papers?style=social) 
 
 
 A trend starts from `Natrural-Instruction` (ACL 2022), `FLAN` (ICLR 2022) and `T0` (ICLR 2022). 
