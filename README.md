@@ -51,6 +51,9 @@ What's the instruction-tuning? It aims to teach language models to follow natura
    
    *Prakhar Gupta, Cathy Jiao, Yi-Ting Yeh, Shikib Mehri, Maxine Eskenazi, Jeffrey P. Bigham* [[paper]](https://arxiv.org/abs/2205.12673) 2022.5
 
+1. **reStructured Pre-training**
+   
+   *Weizhe Yuan, Pengfei Liu* [[paper]](https://arxiv.org/abs/2206.11147) 2022.6
 
 1. **Improving Task Generalization via Unified Schema Prompt**
    
