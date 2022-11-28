@@ -1,15 +1,19 @@
 # Instruction-Tuning-Papers    
 
 
-A trend starts from `Natrural-Instruction` (ACL 2022), `FLAN` (ICLR 2022) and `T0` (ICLR 2022). What's the instruction-tuning? It aims to teach language models to follow natural language (including prompt, positive or negative examples, and constraints etc.), to perform better multi-task learning and generalize on unseen tasks.
+A trend starts from `Natrural-Instruction` (ACL 2022), `FLAN` (ICLR 2022) and `T0` (ICLR 2022). 
+
+What's the instruction-tuning? It aims to teach language models to follow natural language (including prompt, positive or negative examples, and constraints etc.), to perform better multi-task learning on training tasks and generalization on unseen tasks.
 
 
 ## Papers
 
 1. **Cross-task generalization via natural language crowdsourcing instructions**
+   
    *Swaroop Mishra, Daniel Khashabi, Chitta Baral, Hannaneh Hajishirzi* [[paper]](https://aclanthology.org/2022.acl-long.244/) 2021.4
 
 1. **Finetuned language models are zero-shot learners**
+   
    *Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V. Le* [[paper]](https://arxiv.org/abs/2109.01652) 2021.9
 
 1. **Multitask Prompted Training Enables Zero-Shot Task Generalization**
