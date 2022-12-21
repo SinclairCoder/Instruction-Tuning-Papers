@@ -26,6 +26,11 @@ What's the instruction-tuning? It aims to teach language models to follow natura
    
    *Hanwei Xu, Yujun Chen, Yulun Du, Nan Shao, Yanggang Wang, Haiyu Li, Zhilin Yang* [[paper]](https://arxiv.org/abs/2201.06910) 2022.1
 
+1. **UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models**
+
+   *Tianbao Xie, Chen Henry Wu, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida I. Wang, Victor Zhong, Bailin Wang, Chengzu Li, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer, Tao Yu* [[paper]](https://arxiv.org/abs/2201.05966) 2022.1
+
+
 1. **Training language models to follow instructions with human feedback**
    
    *Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, Ryan Lowe* [[paper]](https://arxiv.org/abs/2203.02155) 2022.3
@@ -94,3 +99,7 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 1. **Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor**
 
    *Or Honovich, Thomas Scialom, Omer Levy, Timo Schick* [[paper]](https://arxiv.org/abs/2212.09689)  2022.12
+   
+1. **Improving Cross-task Generalization of Unified Table-to-text Models with Compositional Task Configurations**
+
+   *Jifan Chen, Yuhao Zhang, Lan Liu, Rui Dong, Xinchi Chen, Patrick Ng, William Yang Wang, Zhiheng Huang* [[paper]](https://arxiv.org/abs/2212.08780) 2022.12
