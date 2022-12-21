@@ -90,3 +90,7 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 1. **UnifiedABSA: A Unified ABSA Framework Based on Multi-task Instruction Tuning**
     
     *Zengzhi Wang, Rui Xia, Jianfei Yu* [[paper]](https://arxiv.org/abs/2211.10986) 2022.11
+   
+1. **Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor**
+
+   *Or Honovich, Thomas Scialom, Omer Levy, Timo Schick* [[paper]](https://arxiv.org/abs/2212.09689)  2022.12
