@@ -52,9 +52,14 @@ What's the instruction-tuning? It aims to teach language models to follow natura
    
    *Chunting Zhou, Junxian He, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig* [[paper]](https://arxiv.org/abs/2205.00049) 2022.5
 
+1. **Instruction Induction: From Few Examples to Natural Language Task Descriptions**
+
+   *Or Honovich, Uri Shaham, Samuel R. Bowman, Omer Levy* [[paper]](https://arxiv.org/abs/2205.10782) 2022.5
+
 1. **InstructDial: Improving Zero and Few-shot Generalization in Dialogue through Instruction Tuning**
    
    *Prakhar Gupta, Cathy Jiao, Yi-Ting Yeh, Shikib Mehri, Maxine Eskenazi, Jeffrey P. Bigham* [[paper]](https://arxiv.org/abs/2205.12673) 2022.5
+
 
 1. **reStructured Pre-training**
    
@@ -103,3 +108,7 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 1. **Improving Cross-task Generalization of Unified Table-to-text Models with Compositional Task Configurations**
 
    *Jifan Chen, Yuhao Zhang, Lan Liu, Rui Dong, Xinchi Chen, Patrick Ng, William Yang Wang, Zhiheng Huang* [[paper]](https://arxiv.org/abs/2212.08780) 2022.12
+
+1. **Self-Instruct: Aligning Language Model with Self Generated Instructions**
+
+   *Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi* [[paper]](https://arxiv.org/abs/2212.10560) 2022.12
