@@ -112,3 +112,15 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 1. **Self-Instruct: Aligning Language Model with Self Generated Instructions**
 
    *Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi* [[paper]](https://arxiv.org/abs/2212.10560) 2022.12
+   
+1. **One Embedder, Any Task: Instruction-Finetuned Text Embeddings**
+
+   *Hongjin Su, Weijia Shi, Jungo Kasai, Yizhong Wang, Yushi Hu, Mari Ostendorf, Wen-tau Yih, Noah A. Smith, Luke Zettlemoyer, Tao Yu* [[paper]](https://arxiv.org/abs/2212.09741) 2022.12
+   
+1. **HINT: Hypernetwork Instruction Tuning for Efficient Zero-Shot Generalisation**
+
+   *Hamish Ivison, Akshita Bhagia, Yizhong Wang, Hannaneh Hajishirzi, Matthew Peters* [[paper]](https://arxiv.org/abs/2212.10315) 2022.12
+   
+1. **MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning**
+
+   *Zhiyang Xu, Ying Shen, Lifu Huang* [[paper]](https://arxiv.org/abs/2212.10773) 2022.12
