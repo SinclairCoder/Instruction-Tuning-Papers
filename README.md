@@ -132,3 +132,8 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 1. **GPTScore: Evaluate as You Desire**
 
    *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, Pengfei Liu* [[paper]](https://arxiv.org/abs/2302.04166) 2023.2
+
+1. **Adding Instructions during Pretraining: Effective Way of Controlling Toxicity in Language Models**
+
+   *Shrimai Prabhumoye, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro* [[paper]](https://arxiv.org/abs/2302.07388)  2023.2
+
