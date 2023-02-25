@@ -137,3 +137,6 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 
    *Shrimai Prabhumoye, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro* [[paper]](https://arxiv.org/abs/2302.07388)  2023.2
 
+1. **The Wisdom of Hindsight Makes Language Models Better Instruction Followers**
+
+   *Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, Joseph E. Gonzalez* [[paper]](https://arxiv.org/abs/2302.05206) 2023.2
