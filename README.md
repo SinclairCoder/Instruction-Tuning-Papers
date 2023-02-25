@@ -128,3 +128,7 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 1. **Exploring the Benefits of Training Expert Language Models over Instruction Tuning**
 
    *Joel Jang, Seungone Kim, Seonghyeon Ye, Doyoung Kim, Lajanugen Logeswaran, Moontae Lee, Kyungjae Lee, Minjoon Seo* [[paper]](https://arxiv.org/abs/2302.03202) 2023.2
+
+1. **GPTScore: Evaluate as You Desire**
+
+   *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, Pengfei Liu* [[paper]](https://arxiv.org/abs/2302.04166) 2023.2
