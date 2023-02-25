@@ -124,3 +124,7 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 1. **MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning**
 
    *Zhiyang Xu, Ying Shen, Lifu Huang* [[paper]](https://arxiv.org/abs/2212.10773) 2022.12
+
+1. **Exploring the Benefits of Training Expert Language Models over Instruction Tuning**
+
+   *Joel Jang, Seungone Kim, Seonghyeon Ye, Doyoung Kim, Lajanugen Logeswaran, Moontae Lee, Kyungjae Lee, Minjoon Seo* [[paper]](https://arxiv.org/abs/2302.03202) 2023.2
