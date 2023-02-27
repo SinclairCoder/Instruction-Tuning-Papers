@@ -140,3 +140,8 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 1. **The Wisdom of Hindsight Makes Language Models Better Instruction Followers**
 
    *Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, Joseph E. Gonzalez* [[paper]](https://arxiv.org/abs/2302.05206) 2023.2
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SinclairCoder/Instruction-Tuning-Papers&type=Date)](https://star-history.com/#SinclairCoder/Instruction-Tuning-Papers&Date)
