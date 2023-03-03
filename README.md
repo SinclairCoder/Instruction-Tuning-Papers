@@ -141,6 +141,9 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 
    *Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, Joseph E. Gonzalez* [[paper]](https://arxiv.org/abs/2302.05206) 2023.2
 
+1. **In-Context Instruction Learning** 
+
+   *Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, Minjoon Seo* [[paper]](https://arxiv.org/abs/2302.14691) 2023.2
 
 ## Star History
 
