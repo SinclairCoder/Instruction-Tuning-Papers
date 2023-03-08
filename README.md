@@ -125,6 +125,9 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 
    *Zhiyang Xu, Ying Shen, Lifu Huang* [[paper]](https://arxiv.org/abs/2212.10773) 2022.12
 
+1. **The Flan Collection: Designing Data and Methods for Effective Instruction Tuning**
+   *Shayne Longpre, Le Hou, Tu Vu, Albert Webson, Hyung Won Chung, Yi Tay, Denny Zhou, Quoc V. Le, Barret Zoph, Jason Wei, Adam Roberts*. [[paper]](https://arxiv.org/abs/2301.13688) 2023.1
+
 1. **Exploring the Benefits of Training Expert Language Models over Instruction Tuning**
 
    *Joel Jang, Seungone Kim, Seonghyeon Ye, Doyoung Kim, Lajanugen Logeswaran, Moontae Lee, Kyungjae Lee, Minjoon Seo* [[paper]](https://arxiv.org/abs/2302.03202) 2023.2
