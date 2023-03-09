@@ -129,6 +129,10 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 
    *Srinivasan Iyer, Xi Victoria Lin, Ramakanth Pasunuru, Todor Mihaylov, Daniel Simig, Ping Yu, Kurt Shuster, Tianlu Wang, Qing Liu, Punit Singh Koura, Xian Li, Brian O'Horo, Gabriel Pereyra, Jeff Wang, Christopher Dewan, Asli Celikyilmaz, Luke Zettlemoyer, Ves Stoyanov*. [[paper]](https://arxiv.org/abs/2212.12017) 2022.12
 
+1. **Data-Efficient Finetuning Using Cross-Task Nearest Neighbors**
+
+   *Hamish Ivison, Noah A. Smith, Hannaneh Hajishirzi, Pradeep Dasigi* [[paper]](https://arxiv.org/abs/2212.00196)
+
 1. **The Flan Collection: Designing Data and Methods for Effective Instruction Tuning**
    *Shayne Longpre, Le Hou, Tu Vu, Albert Webson, Hyung Won Chung, Yi Tay, Denny Zhou, Quoc V. Le, Barret Zoph, Jason Wei, Adam Roberts*. [[paper]](https://arxiv.org/abs/2301.13688) 2023.1
 
