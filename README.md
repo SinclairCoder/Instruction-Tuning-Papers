@@ -156,6 +156,15 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 
    *Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, Minjoon Seo* [[paper]](https://arxiv.org/abs/2302.14691) 2023.2
 
+1. **Exploring the Impact of Instruction Data Scaling on Large Language Models: An Empirical Study on Real-World Use Cases**
+
+   *Yunjie Ji, Yong Deng, Yan Gong, Yiping Peng, Qiang Niu, Lei Zhang, Baochang Ma, Xiangang Li*
+   
+1. **Unified Text Structuralization with Instruction-tuned Language Models**
+
+   *Xuanfan Ni, Piji Li, Huayang Li*
+
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=SinclairCoder/Instruction-Tuning-Papers&type=Date)](https://star-history.com/#SinclairCoder/Instruction-Tuning-Papers&Date)
