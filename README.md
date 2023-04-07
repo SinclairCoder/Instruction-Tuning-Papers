@@ -162,7 +162,7 @@ What's the instruction-tuning? It aims to teach language models to follow natura
    
 1. **Unified Text Structuralization with Instruction-tuned Language Models**
 
-   *Xuanfan Ni, Piji Li, Huayang Li*  [[paper]](https://arxiv.org/abs/2303.14956)
+   *Xuanfan Ni, Piji Li, Huayang Li*  [[paper]](https://arxiv.org/abs/2303.14956) 2023.3
 
 
 ## Star History
