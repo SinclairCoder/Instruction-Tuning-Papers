@@ -158,11 +158,11 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 
 1. **Exploring the Impact of Instruction Data Scaling on Large Language Models: An Empirical Study on Real-World Use Cases**
 
-   *Yunjie Ji, Yong Deng, Yan Gong, Yiping Peng, Qiang Niu, Lei Zhang, Baochang Ma, Xiangang Li*
+   *Yunjie Ji, Yong Deng, Yan Gong, Yiping Peng, Qiang Niu, Lei Zhang, Baochang Ma, Xiangang Li* [[paper]](https://arxiv.org/abs/2303.14742) 2023.3 
    
 1. **Unified Text Structuralization with Instruction-tuned Language Models**
 
-   *Xuanfan Ni, Piji Li, Huayang Li*
+   *Xuanfan Ni, Piji Li, Huayang Li*  [[paper]](https://arxiv.org/abs/2303.14956)
 
 
 ## Star History
