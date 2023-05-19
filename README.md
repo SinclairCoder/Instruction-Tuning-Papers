@@ -240,8 +240,34 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 
    *Ruohong Zhang, Yau-Shian Wang, Yiming Yang*  [[paper]](https://arxiv.org/abs/2304.11872) 2023.4
 
+1. **Poisoning Language Models During Instruction Tuning**
 
+   *Alexander Wan, Eric Wallace, Sheng Shen, Dan Klein* [[paper]](https://arxiv.org/abs/2305.00944) 2023.5
+   
+1. **Panda LLM: Training Data and Evaluation for Open-Sourced Chinese Instruction-Following Large Language Models**
 
+   *Fangkai Jiao, Bosheng Ding, Tianze Luo, Zhanfeng Mo* [[paper]](https://arxiv.org/abs/2305.03025) 2023.5
+   
+1. **Improving Cross-Task Generalization with Step-by-Step Instructions**
+
+   *Yang Wu, Yanyan Zhao, Zhongyang Li, Bing Qin, Kai Xiong* [[paper]](https://arxiv.org/abs/2305.04429)
+   
+1. **Towards Building the Federated GPT: Federated Instruction Tuning**
+
+   *Jianyi Zhang, Saeed Vahidian, Martin Kuo, Chunyuan Li, Ruiyi Zhang, Guoyin Wang, Yiran Chen* [[paper]](https://arxiv.org/abs/2305.05644)
+   
+
+1. **Otter: A Multi-Modal Model with In-Context Instruction Tuning**
+
+   *Bo Li, Yuanhan Zhang, Liangyu Chen, Jinghao Wang, Jingkang Yang, Ziwei Liu* [[paper]](https://arxiv.org/abs/2305.03726) 
+   
+1. **Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach**
+
+   *Junjie Zhang, Ruobing Xie, Yupeng Hou, Wayne Xin Zhao, Leyu Lin, Ji-Rong Wen* [[paper]](https://arxiv.org/abs/2305.07001)
+   
+1. **Maybe Only 0.5% Data is Needed: A Preliminary Exploration of Low Training Data Instruction Tuning**
+
+   *Hao Chen, Yiming Zhang, Qi Zhang, Hantao Yang, Xiaomeng Hu, Xuetao Ma, Yifan Yanggong, Junbo Zhao* [[paper]](https://arxiv.org/abs/2305.09246)
 
 ## Star History
 
