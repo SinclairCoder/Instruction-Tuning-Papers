@@ -256,6 +256,17 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 
    *Jianyi Zhang, Saeed Vahidian, Martin Kuo, Chunyuan Li, Ruiyi Zhang, Guoyin Wang, Yiran Chen* [[paper]](https://arxiv.org/abs/2305.05644)
    
+1. **STORYWARS: A Dataset and Instruction Tuning Baselines for Collaborative Story Understanding and Generation**
+
+   *Yulun Du, Lydia Chilton* [[paper]](https://arxiv.org/abs/2305.08152)
+
+1. **COEDIT: Text Editing by Task-Specific Instruction Tuning**
+
+   *Vipul Raheja, Dhruv Kumar, Ryan Koo, Dongyeop Kang* [[paper]](https://arxiv.org/abs/2305.09857)
+
+1. **Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors**
+
+   *Kai Zhang, Bernal Jiménez Gutiérrez, Yu Su* [[paper]](https://arxiv.org/abs/2305.11159)
 
 1. **Otter: A Multi-Modal Model with In-Context Instruction Tuning**
 
