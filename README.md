@@ -164,6 +164,84 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 
    *Xuanfan Ni, Piji Li, Huayang Li*  [[paper]](https://arxiv.org/abs/2303.14956) 2023.3
 
+1. **Instruction Tuning with GPT-4**
+
+   *Baolin Peng, Chunyuan Li, Pengcheng He, Michel Galley, Jianfeng Gao* [[paper]](https://arxiv.org/abs/2304.03277)  2023.4
+   
+1. **ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human**
+
+   *Junfeng Tian, Hehong Chen, Guohai Xu, Ming Yan, Xing Gao, Jianhai Zhang, Chenliang Li, Jiayi Liu, Wenshen Xu, Haiyang Xu, Qi Qian, Wei Wang, Qinghao Ye, Jiejing Zhang, Ji Zhang, Fei Huang, Jingren Zhou*  [[paper]](https://arxiv.org/abs/2304.07849)  2023.4
+
+1. **Towards Better Instruction Following Language Models for Chinese: Investigating the Impact of Training Data and Evaluation**
+
+   *Yunjie Ji, Yan Gong, Yong Deng, Yiping Peng, Qiang Niu, Baochang Ma, Xiangang Li*  [[paper]](https://arxiv.org/abs/2304.07854)   2023.4
+
+1. **Chinese Open Instruction Generalist: A Preliminary Release**
+
+   *Ge Zhang, Yemin Shi, Ruibo Liu, Ruibin Yuan, Yizhi Li, Siwei Dong, Yu Shu, Zhaoqun Li, Zekun Wang, Chenghua Lin, Wenhao Huang, Jie Fu*  [[pape]](https://arxiv.org/abs/2304.07987)   2023.4
+   
+1. **From Zero to Hero: Examining the Power of Symbolic Tasks in Instruction Tuning**
+
+   *Qian Liu, Fan Zhou, Zhengbao Jiang, Longxu Dou, Min Lin*  [[paper]](https://arxiv.org/abs/2304.07995) 2023.4
+   
+1. **InstructUIE: Multi-task Instruction Tuning for Unified Information Extraction**
+
+   *Xiao Wang, Weikang Zhou, Can Zu, Han Xia, Tianze Chen, Yuansen Zhang, Rui Zheng, Junjie Ye, Qi Zhang, Tao Gui, Jihua Kang, Jingsheng Yang, Siyuan Li, Chunsai Du*  [[paper]](https://arxiv.org/abs/2304.08085)  2023.4
+   
+1. **A Comparative Study between Full-Parameter and LoRA-based Fine-Tuning on Chinese Instruction Data for Instruction Following Large Language Model**
+
+   *Xianghui Sun, Yunjie Ji, Baochang Ma, Xiangang Li*  [[paper]](https://arxiv.org/abs/2304.08109) 2023.4
+
+1. **LongForm: Optimizing Instruction Tuning for Long Text Generation with Corpus Extraction**
+
+   *Abdullatif Köksal, Timo Schick, Anna Korhonen, Hinrich Schütze* [[paper]](https://arxiv.org/abs/2304.08460)  2023.4
+  
+1. **WizardLM: Empowering Large Language Models to Follow Complex Instructions**
+
+   *Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang* [[paper]](https://arxiv.org/abs/2304.12244) 2023.4
+   
+1. **AMR Parsing with Instruction Fine-tuned Pre-trained Language Models**
+
+   *Young-Suk Lee, Ramón Fernandez Astudillo, Radu Florian, Tahira Naseem, Salim Roukos* [[paper]](https://arxiv.org/abs/2304.12272) 2023.4
+   
+1. **Controlled Text Generation with Natural Language Instructions**
+
+   *Wangchunshu Zhou, Yuchen Eleanor Jiang, Ethan Wilcox, Ryan Cotterell, Mrinmaya Sachan* [[paper]](https://arxiv.org/abs/2304.14293) 2023.4
+   
+1. **LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions**
+
+   *Minghao Wu, Abdul Waheed, Chiyu Zhang, Muhammad Abdul-Mageed, Alham Fikri Aji*  [[paper]](https://arxiv.org/abs/2304.14402) 2023.4
+   
+1. **Visual Instruction Tuning**
+
+   *Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee*  [[paper]](https://arxiv.org/abs/2304.08485)   2023.4
+   
+1. **TABLET: Learning From Instructions For Tabular Data**
+
+   *Dylan Slack, Sameer Singh* [[paper]](https://arxiv.org/abs/2304.13188) 2023.4
+   
+1. **LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model**
+
+   *Peng Gao, Jiaming Han, Renrui Zhang, Ziyi Lin, Shijie Geng, Aojun Zhou, Wei Zhang, Pan Lu, Conghui He, Xiangyu Yue, Hongsheng Li, Yu Qiao* [[paper]](https://arxiv.org/abs/2304.15010) 2023.4
+   
+1. **LINGO : Visually Debiasing Natural Language Instructions to Support Task Diversity**
+
+   *Anjana Arunkumar, Shubham Sharma, Rakhi Agrawal, Sriram Chandrasekaran, Chris Bryan* [[paper]](https://arxiv.org/abs/2304.06184) 2023.4
+   
+1. **Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model**
+
+   *Deepanway Ghosal, Navonil Majumder, Ambuj Mehrish, Soujanya Poria* [[paper]](https://arxiv.org/abs/2304.13731) 2023.4
+  
+1. **Resources and Few-shot Learners for In-context Learning in Slavic Languages**
+
+   *Michal Štefánik, Marek Kadlčík, Piotr Gramacki, Petr Sojka* [[paper]](https://arxiv.org/abs/2304.01922) 2023.4
+
+1. **Generation-driven Contrastive Self-training for Zero-shot Text Classification with Instruction-tuned GPT**
+
+   *Ruohong Zhang, Yau-Shian Wang, Yiming Yang*  [[paper]](https://arxiv.org/abs/2304.11872) 2023.4
+
+
+
 
 ## Star History
 
