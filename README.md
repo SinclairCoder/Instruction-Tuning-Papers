@@ -250,35 +250,39 @@ What's the instruction-tuning? It aims to teach language models to follow natura
    
 1. **Improving Cross-Task Generalization with Step-by-Step Instructions**
 
-   *Yang Wu, Yanyan Zhao, Zhongyang Li, Bing Qin, Kai Xiong* [[paper]](https://arxiv.org/abs/2305.04429)
+   *Yang Wu, Yanyan Zhao, Zhongyang Li, Bing Qin, Kai Xiong* [[paper]](https://arxiv.org/abs/2305.04429) 2023.5
    
 1. **Towards Building the Federated GPT: Federated Instruction Tuning**
 
-   *Jianyi Zhang, Saeed Vahidian, Martin Kuo, Chunyuan Li, Ruiyi Zhang, Guoyin Wang, Yiran Chen* [[paper]](https://arxiv.org/abs/2305.05644)
+   *Jianyi Zhang, Saeed Vahidian, Martin Kuo, Chunyuan Li, Ruiyi Zhang, Guoyin Wang, Yiran Chen* [[paper]](https://arxiv.org/abs/2305.05644) 2023.5
    
 1. **STORYWARS: A Dataset and Instruction Tuning Baselines for Collaborative Story Understanding and Generation**
 
-   *Yulun Du, Lydia Chilton* [[paper]](https://arxiv.org/abs/2305.08152)
+   *Yulun Du, Lydia Chilton* [[paper]](https://arxiv.org/abs/2305.08152) 2023.5
 
 1. **COEDIT: Text Editing by Task-Specific Instruction Tuning**
 
-   *Vipul Raheja, Dhruv Kumar, Ryan Koo, Dongyeop Kang* [[paper]](https://arxiv.org/abs/2305.09857)
+   *Vipul Raheja, Dhruv Kumar, Ryan Koo, Dongyeop Kang* [[paper]](https://arxiv.org/abs/2305.09857) 2023.5
 
 1. **Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors**
 
-   *Kai Zhang, Bernal Jiménez Gutiérrez, Yu Su* [[paper]](https://arxiv.org/abs/2305.11159)
+   *Kai Zhang, Bernal Jiménez Gutiérrez, Yu Su* [[paper]](https://arxiv.org/abs/2305.11159) 2023.5
 
 1. **Otter: A Multi-Modal Model with In-Context Instruction Tuning**
 
-   *Bo Li, Yuanhan Zhang, Liangyu Chen, Jinghao Wang, Jingkang Yang, Ziwei Liu* [[paper]](https://arxiv.org/abs/2305.03726) 
+   *Bo Li, Yuanhan Zhang, Liangyu Chen, Jinghao Wang, Jingkang Yang, Ziwei Liu* [[paper]](https://arxiv.org/abs/2305.03726)  2023.5
    
 1. **Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach**
 
-   *Junjie Zhang, Ruobing Xie, Yupeng Hou, Wayne Xin Zhao, Leyu Lin, Ji-Rong Wen* [[paper]](https://arxiv.org/abs/2305.07001)
+   *Junjie Zhang, Ruobing Xie, Yupeng Hou, Wayne Xin Zhao, Leyu Lin, Ji-Rong Wen* [[paper]](https://arxiv.org/abs/2305.07001) 2023.5
    
 1. **Maybe Only 0.5% Data is Needed: A Preliminary Exploration of Low Training Data Instruction Tuning**
 
-   *Hao Chen, Yiming Zhang, Qi Zhang, Hantao Yang, Xiaomeng Hu, Xuetao Ma, Yifan Yanggong, Junbo Zhao* [[paper]](https://arxiv.org/abs/2305.09246)
+   *Hao Chen, Yiming Zhang, Qi Zhang, Hantao Yang, Xiaomeng Hu, Xuetao Ma, Yifan Yanggong, Junbo Zhao* [[paper]](https://arxiv.org/abs/2305.09246) 2023.5
+
+1. **The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning**
+
+   *Seungone Kim, Se June Joo, Doyoung Kim, Joel Jang, Seonghyeon Ye, Jamin Shin, Minjoon Seo* [[paper]](https://arxiv.org/abs/2305.14045) 2023.5
 
 ## Star History
 
