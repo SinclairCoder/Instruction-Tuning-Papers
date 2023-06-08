@@ -284,6 +284,18 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 
    *Seungone Kim, Se June Joo, Doyoung Kim, Joel Jang, Seonghyeon Ye, Jamin Shin, Minjoon Seo* [[paper]](https://arxiv.org/abs/2305.14045) 2023.5
 
+1. **LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion**
+
+   *Dongfu Jiang, Xiang Ren, Bill Yuchen Lin* [[paper]](https://arxiv.org/abs/2306.02561) 2023.6
+
+1. **InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models**
+
+   *Lichang Chen, Jiuhai Chen, Tom Goldstein, Heng Huang, Tianyi Zhou* [[paper]](https://arxiv.org/abs/2306.03082) 2023.6
+   
+1. **M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning**
+
+   *Lei Li, Yuwei Yin, Shicheng Li, Liang Chen, Peiyi Wang, Shuhuai Ren, Mukai Li, Yazheng Yang, Jingjing Xu, Xu Sun, Lingpeng Kong, Qi Liu* [[paper]](https://arxiv.org/abs/2306.04387) 2023.6
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=SinclairCoder/Instruction-Tuning-Papers&type=Date)](https://star-history.com/#SinclairCoder/Instruction-Tuning-Papers&Date)
