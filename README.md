@@ -280,6 +280,10 @@ What's the instruction-tuning? It aims to teach language models to follow natura
 
    *Hao Chen, Yiming Zhang, Qi Zhang, Hantao Yang, Xiaomeng Hu, Xuetao Ma, Yifan Yanggong, Junbo Zhao* [[paper]](https://arxiv.org/abs/2305.09246) 2023.5
 
+1. **Dynosaur: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation**
+
+   *Da Yin, Xiao Liu, Fan Yin, Ming Zhong, Hritik Bansal, Jiawei Han, Kai-Wei Chang* [[paper]](https://arxiv.org/abs/2305.14327) 2023.5
+
 1. **The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning**
 
    *Seungone Kim, Se June Joo, Doyoung Kim, Joel Jang, Seonghyeon Ye, Jamin Shin, Minjoon Seo* [[paper]](https://arxiv.org/abs/2305.14045) 2023.5
